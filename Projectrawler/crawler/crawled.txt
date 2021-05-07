@@ -1,0 +1,369 @@
+
+	(UNIVERSITY OF NEW HAVEN) Student Log In
+	ContactInfoUpdStudent
+	Make Your Gift - University of New Haven Alumni
+*<meta content="&lt;%=AntiXSS.HtmlEncode(MetaTags)%&gt;" name="keywords"/>
+*None
+http://catalog.newhaven.edu/index.php?catoid=22*University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/index.php?catoid=5*University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=20&poid=4089*Program: Paramedicine, B.S. - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5793*Program: Communication Minor - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5811*Program: Political Science, B.A. - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5829*Program: Music and Sound Recording, B.S. - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5830*Program: Music Minor - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5832*Program: Graphic Design, B.F.A., General Concentration - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5846*Program: International Business Communication Minor (Business program majors only) - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5887*Program: Criminal Justice, Police Science Concentration, B.S. - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5888*Program: Criminal Justice, Crime Victim Services Concentration, B.S. - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5897*Program: Victim Services Administration Certificate - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5902*Program: Legal Studies, A.S. - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5910*Program: Fire Science Minor - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5932*Program: Paramedicine, B.S. - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5938*Program: Communication, B.A., Public Relations and Digital Media Concentration - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5940*Program: Communication, B.A., Multi-Platform Journalism and Media Concentration - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5950*Program: Economics, General Economics Concentration, B.A. - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5953*Program: Marine Biology Minor - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5958*Program: National Security, Intelligence Analysis Concentration, B.S. - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=5975*Program: Emergency Medical Services Administration Certificate - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=6301*Program: Health Sciences, Speech-Language Pathology Concentration, B.S. - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=6310&returnto=1537*Program: Actuarial Science, B.S. - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=22&poid=6342*Program: Finance Minor (Non-business majors only) - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=23&poid=6117*Program: National Security Certificate - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=23&poid=6149*Program: Finance, M.S. - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=23&poid=6154*Program: Forensic Science, M.S. - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=23&poid=6305&returnto=1595*Program: Human Resources, M.S., Talent Management Concentration - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://catalog.newhaven.edu/preview_program.php?catoid=23&poid=6308&returnto=1595*Program: Human Resources, M.S., Employee Relations Concentration - University of New Haven - Acalog ACMS™*<meta content="Course Catalog, Undergraduate Catalog, Graduate Catalog, Catalog, Graduate School, EMBA, MBA, Courses, Graduate, Graduate School, Majors, College, Programs, Degrees, Experiential Education, UNH, Academics, New England, University of New Haven Academic Catalogs" name="keywords"/>
+http://online.newhaven.edu/masters-in-environmental-engineering/*Master's in Environmental Engineering | University of New Haven*None
+http://unh-web-01.newhaven.edu/ContactInfo/ContactInfoUpd4Student.aspx*
+http://www.newhaven.edu/*Home - University of New Haven*None
+http://www.newhaven.edu/907680.pdf*Registrar Forms - University of New Haven*None
+https://blackboard.newhaven.edu/*Sign In*None
+https://chargerconnection.newhaven.edu/organization/purebreadrecords* - Charger Connection*None
+https://give.newhaven.edu/givenow*
+https://graduate.newhaven.edu/register/?id=b0b9ec18-5e3f-4469-ab15-d3a496069892*Graduate Admissions Inquiry Form*None
+https://mycharger.newhaven.edu*Sign In*None
+https://mycharger.newhaven.edu/*Sign In*None
+https://mycharger.newhaven.edu/web/mycharger/mail-services*Sign In*None
+https://mycharger.newhaven.edu/web/mycharger/office-of-facilities*Sign In*None
+https://mycharger.newhaven.edu/web/mycharger/parking-and-transportation*Sign In*None
+https://netpartner.newhaven.edu/NETPARTNERSTUDENT/Logon.aspx?ReturnUrl=%2fNetPartnerStudent%2fDefault.aspx*
+https://online.newhaven.edu/about-the-university-of-new-haven-online/lee-college-of-criminal-justice/*Lee College of Criminal Justice and Forensic Sciences | University of New Haven*None
+https://online.newhaven.edu/author/nkim/*Online Masters Degree Programs | University of New Haven*None
+https://online.newhaven.edu/master-of-public-administration/*Master of Public Administration | University of New Haven*None
+https://online.newhaven.edu/master-of-public-administration/curriculum/*Master of Public Administration Curriculum University of New Haven Online*None
+https://online.newhaven.edu/master-of-public-administration/curriculum/concentration-in-nonprofit-management/*Concentration in Nonprofit Management | University of New Haven*None
+https://online.newhaven.edu/masters-in-criminal-justice/*Master of Science in Criminal Justice | University of New Haven*None
+https://online.newhaven.edu/masters-in-criminal-justice/resources/*Criminal Justice Resources for Online Graduate Students | University of New Haven*None
+https://online.newhaven.edu/masters-in-emergency-management/*Master of Science in Emergency Management | University of New Haven*None
+https://online.newhaven.edu/masters-in-environmental-engineering/resources/*Environmental Engineering Resources | University of New Haven*None
+https://www.newhaven.edu/#dean-s_list*Home - University of New Haven*None
+https://www.newhaven.edu/#search*Home - University of New Haven*None
+https://www.newhaven.edu/*Home - University of New Haven*None
+https://www.newhaven.edu/about/accreditation/index.php*University Accreditation - University of New Haven*None
+https://www.newhaven.edu/about/awards-affiliations.php*Awards and Affiliations - University of New Haven*None
+https://www.newhaven.edu/about/board-governors/members/philip-bartels.php*Philip H. Bartels - University of New Haven*None
+https://www.newhaven.edu/about/campus-locations/index.php*Campus Locations and Maps - University of New Haven*None
+https://www.newhaven.edu/about/campus-locations/orange/*University of New Haven Orange Campus - University of New Haven*None
+https://www.newhaven.edu/about/consumer-information/licensure-certification.php*Licensure & Professional Certification Disclosures - University of New Haven*None
+https://www.newhaven.edu/about/departments/*Departments - University of New Haven*None
+https://www.newhaven.edu/about/departments/business-office/payroll.php*Payroll & Student Employment - University of New Haven*None
+https://www.newhaven.edu/about/departments/index.php*Departments - University of New Haven*None
+https://www.newhaven.edu/about/departments/information-technology/support.php*Information Technology Support  - University of New Haven*None
+https://www.newhaven.edu/about/employment/equal-opportunity.php*Equal Opportunity Statements - University of New Haven*None
+https://www.newhaven.edu/about/facilities/bergami-center-for-science-technology-and-innovation.php*Bergami Center for Science, Technology, and Innovation - University of New Haven*None
+https://www.newhaven.edu/about/facilities/index.php*State-of-the-Art Facilities - University of New Haven*None
+https://www.newhaven.edu/about/visitors/*Visitors & Community - University of New Haven*None
+https://www.newhaven.edu/about/visitors/parking.php*Parking - University of New Haven*None
+https://www.newhaven.edu/academics/*Academics - University of New Haven*None
+https://www.newhaven.edu/academics/academic-administration/*Academic Administration - University of New Haven*None
+https://www.newhaven.edu/academics/dual-degree/*Dual Degree Programs - University of New Haven*None
+https://www.newhaven.edu/academics/entrepreneurship-innovation-program/*Entrepreneurship and Innovation Program - University of New Haven*None
+https://www.newhaven.edu/academics/excellence/*Honors Societies - University of New Haven*None
+https://www.newhaven.edu/academics/health-professions-advising-center.php*Health Professions Advising Center (HPAC) - University of New Haven*None
+https://www.newhaven.edu/academics/library/*Library - University of New Haven*None
+https://www.newhaven.edu/academics/library/services/instruction.php*Library Instruction - University of New Haven*None
+https://www.newhaven.edu/academics/library/special-collections/*Special Collections - University of New Haven*None
+https://www.newhaven.edu/academics/library/suggestion-box.php*Suggestion Box - University of New Haven*None
+https://www.newhaven.edu/academics/online-degree-programs/accreditation-authorization/accreditation.php*Accreditation  - University of New Haven*None
+https://www.newhaven.edu/academics/online-degree-programs/index.php*Online Programs - University of New Haven*None
+https://www.newhaven.edu/academics/programs/academic-english-preparatory-program/index.php*Academic English Preparatory Program - University of New Haven*None
+https://www.newhaven.edu/academics/programs/minors.php*Minors - University of New Haven*None
+https://www.newhaven.edu/academics/service-learning/*Academic Service Learning - University of New Haven*None
+https://www.newhaven.edu/academics/study-abroad/index.php*Study Abroad - University of New Haven*None
+https://www.newhaven.edu/academics/study-abroad/tuscany/*Study Abroad in Tuscany - University of New Haven*None
+https://www.newhaven.edu/admissions/*Admissions - University of New Haven*None
+https://www.newhaven.edu/admissions/apply/index.php*Apply to the University of New Haven - University of New Haven*None
+https://www.newhaven.edu/admissions/financial-aid/graduate/index.php*Graduate Financial Aid - University of New Haven*None
+https://www.newhaven.edu/admissions/financial-aid/graduate/repaying/faq.php*Repaying Your Loans FAQs - University of New Haven*None
+https://www.newhaven.edu/admissions/financial-aid/international.php*Financial Aid Information for International Students - University of New Haven*None
+https://www.newhaven.edu/admissions/financial-aid/undergraduate/index.php*Undergraduate Financial Aid - University of New Haven*None
+https://www.newhaven.edu/admissions/financial-aid/undergraduate/prospective/award.php*The Financial Aid Award - University of New Haven*None
+https://www.newhaven.edu/admissions/financial-aid/undergraduate/prospective/fafsa.php*FAFSA Results - EFC - University of New Haven*None
+https://www.newhaven.edu/admissions/financial-aid/undergraduate/repaying/forgiveness.php*Public Service Loan Forgiveness - University of New Haven*None
+https://www.newhaven.edu/admissions/get-info/*Request Info From Admissions - University of New Haven*None
+https://www.newhaven.edu/admissions/get-info/index.php*Request Info From Admissions - University of New Haven*None
+https://www.newhaven.edu/admissions/graduate/*Graduate Admissions - University of New Haven*None
+https://www.newhaven.edu/admissions/graduate/events/index.php*Graduate Admissions Visit Opportunities - University of New Haven*None
+https://www.newhaven.edu/admissions/graduate/events/info-sessions.php*Graduate Information Sessions - University of New Haven*None
+https://www.newhaven.edu/admissions/graduate/events/one-on-one-visits.php*Graduate One-On-One Campus Visits - University of New Haven*None
+https://www.newhaven.edu/admissions/graduate/events/open-house.php*Graduate Programs Open Houses - University of New Haven*None
+https://www.newhaven.edu/admissions/graduate/events/webinars.php*Graduate Admissions Webinars - University of New Haven*None
+https://www.newhaven.edu/admissions/graduate/index.php*Graduate Admissions - University of New Haven*None
+https://www.newhaven.edu/admissions/graduate/international/*International Graduate Admissions - University of New Haven*None
+https://www.newhaven.edu/admissions/graduate/international/admission-requirements/english-language.php*English Language Requirement for Graduate Applicants - University of New Haven*None
+https://www.newhaven.edu/admissions/graduate/international/admitted/i20.php*Admitted International Graduate Students - Receiving an I-20 - University of New Haven*None
+https://www.newhaven.edu/admissions/graduate/living-expenses.php*Living Expenses for Graduate Students - University of New Haven*None
+https://www.newhaven.edu/admissions/graduate/programs.php*Graduate Programs - University of New Haven*None
+https://www.newhaven.edu/admissions/graduate/video-gallery.php*Graduate Admissions Video Gallery - University of New Haven*None
+https://www.newhaven.edu/admissions/new-students/part-time-checklist.php*Part-Time Student Checklist  - University of New Haven*None
+https://www.newhaven.edu/admissions/new-students/road-map.php*Road Map for New Students - University of New Haven*None
+https://www.newhaven.edu/admissions/pre-college/*Pre-College - University of New Haven*None
+https://www.newhaven.edu/admissions/pre-college/index.php*Pre-College - University of New Haven*None
+https://www.newhaven.edu/admissions/pre-college/summer-youth/index.php#financial-crime*Summer Youth Academies - University of New Haven*None
+https://www.newhaven.edu/admissions/pre-college/summer-youth/index.php*Summer Youth Academies - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/high-school/visiting-faculty.php*Visiting Faculty Program - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/international/admission-requirements/*Undergraduate Admission Requirements for International First Year Students - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/international/tuition/*International Undergraduate Tuition, 2017-2018 - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/part-time-degree-and-certificate-ug-programs/*Part-Time Degree and Certificate Undergraduate Programs  - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/request/*Get Information from Undergraduate Admissions - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/request/index.php*Get Information from Undergraduate Admissions - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/staff/index.php*Meet the Undergraduate Admissions Staff - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/staff/kostoula-aldi.php*Kostoula Aldi - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/the-application-process/*The Application Process - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/the-application-process/music-portfolio-requirements.php*Portfolio Requirements for Music Programs - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/the-application-process/transfer.php*Transfer Application Process - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/transfer-students/articulations.php*Transfer and Academic Articulations & Agreements - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/transfer-students/credits.php*Transfer Credit Evaluations - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/visit/*Undergraduate Admissions Visit Opportunities - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/visit/accepted-receptions/index.php*Accepted Students Receptions - Undergraduate Admissions - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/visit/drive-thru-tour/index.php*Drive-Thru Campus Tour - Undergraduate Admissions - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/visit/financial-aid-one-on-ones/index.php*Financial Aid One-on-Ones - Undergraduate Admissions - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/visit/info-sessions-and-tours/index.php*Admissions Information Sessions and Campus Tours - Undergraduate Admissions - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/visit/info-sessions/index.php*Virtual Information Sessions - Undergraduate Admissions - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/visit/one-on-one-visits/index.php*Undergraduate Admissions Visit Opportunities - University of New Haven*None
+https://www.newhaven.edu/admissions/undergraduate/visit/open-house/index.php*Virtual Open Houses - Undergraduate Admissions - University of New Haven*None
+https://www.newhaven.edu/alumni/*Alumni & Friends - University of New Haven*None
+https://www.newhaven.edu/alumni/alumni-association-board/*Alumni Association Board of Directors - University of New Haven*None
+https://www.newhaven.edu/alumni/alumni-association-board/board-of-directors.php*Alumni Board of Directors - University of New Haven*None
+https://www.newhaven.edu/alumni/alumni-association-board/contact.php*Contact an Alumni Board Member - University of New Haven*None
+https://www.newhaven.edu/alumni/alumni-association-board/meeting-schedule.php*Meeting Schedule - University of New Haven*None
+https://www.newhaven.edu/alumni/alumni-networks.php*Alumni Networks - University of New Haven*None
+https://www.newhaven.edu/alumni/benefits/*Alumni Benefits - University of New Haven*None
+https://www.newhaven.edu/alumni/benefits/off-campus/day-translations.php*Day Translations Discount - University of New Haven*None
+https://www.newhaven.edu/alumni/benefits/university/*On-Campus Benefits - University of New Haven*None
+https://www.newhaven.edu/alumni/benefits/university/recreation-center.php*Beckerman Recreation Center Membership - University of New Haven*None
+https://www.newhaven.edu/alumni/benefits/university/rings.php*Class Rings - University of New Haven*None
+https://www.newhaven.edu/alumni/events/*Alumni Events - University of New Haven*None
+https://www.newhaven.edu/alumni/get-involved.php*Alumni - Get Involved! - University of New Haven*None
+https://www.newhaven.edu/alumni/magazine/*Alumni Magazine - University of New Haven*None
+https://www.newhaven.edu/alumni/magazine/fall-2019/index.php*Alumni Magazine, Fall 2019 Issue - University of New Haven*None
+https://www.newhaven.edu/alumni/magazine/winter-2018/holding-space.php*Holding Space - Alumni Magazine, Winter 2018 - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/*College of Arts and Sciences - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/graduate-programs/cellular-molecular-biology/index.php*Cellular & Molecular Biology, M.S. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/graduate-programs/clinical-mental-health-counseling/*Clinical Mental Health Counseling, M.A. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/graduate-programs/industrial-organizational-psychology/index.php*Industrial/Organizational Psychology, M.A. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/graduate-programs/marine-policy-management/index.php*Marine Policy and Management, M.A. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/index.php*College of Arts and Sciences - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/actuarial-science/index.php*Actuarial Science, B.S. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/art/index.php*Art, B.A. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/biology/index.php*Biology, B.S. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/communication/*Communication and Media Studies, B.A., B.S. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/communication/facilities.php*Communication Department Facilities and Resources - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/communication/index.php*Communication and Media Studies, B.A., B.S. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/environmental-science/*Environmental Science, B.S. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/graphic-design/*Graphic Design, B.A. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/graphic-design/index.php*Graphic Design, B.A. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/history/faculty.php*History Faculty & Staff - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/history/index.php*History, B.A. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/interior-design/*Interior Design & Pre-Architecture, B.F.A. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/interior-design/index.php*Interior Design & Pre-Architecture, B.F.A. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/legal-studies/*Legal Studies, B.S. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/legal-studies/mission-vision.php*Mission and Vision - Legal Studies - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/marine-biology/index.php*Marine Biology, B.S. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/modern-languages/*Modern Languages, Minor - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/music-industry/index.php*Music Industry, B.A. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/music-programs/*Music Programs at University of New Haven - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/music-programs/facilities.php*Music Technology Facilities - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/music-programs/nashville-semester-study-away.php*Nashville Study Away - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/music-sound-recording/faculty.php*Music and Sound Recording Faculty & Staff - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/music-sound-recording/index.php*Music and Sound Recording, B.A., B.S. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/philosophy/index.php*Philosophy, Minor - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/physics/*Physics, Minor - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/political-science/index.php*Political Science, B.A. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/psychology/forensic-psychology-concentration.php*Forensic Psychology Concentration, B.S. - University of New Haven*None
+https://www.newhaven.edu/arts-sciences/undergraduate-programs/psychology/index.php*Psychology, B.A. - University of New Haven*None
+https://www.newhaven.edu/business/*Pompea College of Business - University of New Haven*None
+https://www.newhaven.edu/business/accreditation/index.php*AACSB Accreditation - University of New Haven*None
+https://www.newhaven.edu/business/graduate-programs/business-analytics/index.php*Business Analytics, M.S. - University of New Haven*None
+https://www.newhaven.edu/business/graduate-programs/finance/*Finance, M.S. - University of New Haven*None
+https://www.newhaven.edu/business/graduate-programs/flexible-mba/index.php*Flexible MBA - University of New Haven*None
+https://www.newhaven.edu/business/graduate-programs/human-resources/index.php*Human Resources, M.S. - University of New Haven*None
+https://www.newhaven.edu/business/graduate-programs/mba/mba-cohort/*MBA Cohort Program - University of New Haven*None
+https://www.newhaven.edu/business/graduate-programs/mba/mba-cohort/index.php*MBA Cohort Program - University of New Haven*None
+https://www.newhaven.edu/business/graduate-programs/mba/which-mba-is-right-for-you.php*Which MBA Program is Right for You? - University of New Haven*None
+https://www.newhaven.edu/business/graduate-programs/sport-management/*Sport Management, M.S. - University of New Haven*None
+https://www.newhaven.edu/business/graduate-programs/sport-management/index.php*Sport Management, M.S. - University of New Haven*None
+https://www.newhaven.edu/business/graduate-programs/taxation/*Taxation, M.S. - University of New Haven*None
+https://www.newhaven.edu/business/undergraduate-programs/economics/*Economics, B.A. - University of New Haven*None
+https://www.newhaven.edu/business/undergraduate-programs/sport-management/index.php*Sport Management, B.S. - University of New Haven*None
+https://www.newhaven.edu/commencement/*Spring 2021 Commencement - University of New Haven*None
+https://www.newhaven.edu/engineering/*Tagliatela College of Engineering - University of New Haven*None
+https://www.newhaven.edu/engineering/graduate-programs/chemistry/*Chemistry, M.S. - University of New Haven*None
+https://www.newhaven.edu/engineering/graduate-programs/computer-science/index.php*Computer Science, M.S. - University of New Haven*None
+https://www.newhaven.edu/engineering/graduate-programs/data-science/*Data Science, M.S. - University of New Haven*None
+https://www.newhaven.edu/engineering/graduate-programs/environmental-engineering/*Environmental Engineering, M.S. - University of New Haven*None
+https://www.newhaven.edu/engineering/graduate-programs/environmental-engineering/index.php*Environmental Engineering, M.S. - University of New Haven*None
+https://www.newhaven.edu/engineering/graduate-programs/operations-management/index.php*Engineering & Operations Management, M.S. - University of New Haven*None
+https://www.newhaven.edu/engineering/kern-entrepreneurial-engineering-network/elearning-modules/*E-Learning Modules - University of New Haven*None
+https://www.newhaven.edu/engineering/tcoe-trends.php*TCoE Trends Newsletter - University of New Haven*None
+https://www.newhaven.edu/engineering/undergraduate-programs/*Undergraduate Programs in the Tagliatela College of Engineering - University of New Haven*None
+https://www.newhaven.edu/engineering/undergraduate-programs/chemical-engineering/index.php*Chemical Engineering, B.S. - University of New Haven*None
+https://www.newhaven.edu/engineering/undergraduate-programs/chemistry/*Chemistry, B.S. - University of New Haven*None
+https://www.newhaven.edu/engineering/undergraduate-programs/chemistry/index.php*Chemistry, B.S. - University of New Haven*None
+https://www.newhaven.edu/engineering/undergraduate-programs/electrical-engineering/index.php*Electrical Engineering, B.S. - University of New Haven*None
+https://www.newhaven.edu/engineering/undergraduate-programs/general-engineering/index.php*Engineering - University of New Haven*None
+https://www.newhaven.edu/engineering/undergraduate-programs/industrial-systems-engineering/index.php*Industrial and Systems Engineering - University of New Haven*None
+https://www.newhaven.edu/engineering/undergraduate-programs/mechanical-engineering/index.php*Mechanical Engineering, B.S. - University of New Haven*None
+https://www.newhaven.edu/engineering/undergraduate-programs/mechanical-engineering/objectives.php*Mechanical Engineering Program Objectives And Student Outcomes - University of New Haven*None
+https://www.newhaven.edu/events/*Events - University of New Haven*None
+https://www.newhaven.edu/events/index.php*Events - University of New Haven*None
+https://www.newhaven.edu/events/policies-and-fees.php*Events Policies and Fees - University of New Haven*None
+https://www.newhaven.edu/explore-the-university/*Explore - University of New Haven*None
+https://www.newhaven.edu/explore-the-university/arts/*Arts on Campus - University of New Haven*None
+https://www.newhaven.edu/faculty-staff-profiles/*Faculty and Staff - University of New Haven*None
+https://www.newhaven.edu/faculty-staff-profiles/diane-smith.php*Diane Smith - University of New Haven*None
+https://www.newhaven.edu/faculty-staff-profiles/john-jansen.php*John Jansen - University of New Haven*None
+https://www.newhaven.edu/faculty-staff-profiles/joshua-kealer.php*Joshua Kealer - University of New Haven*None
+https://www.newhaven.edu/faculty-staff-profiles/michelle-atallah.php*Michelle Atallah - University of New Haven*None
+https://www.newhaven.edu/faculty-staff-profiles/renee-garcia-prajer.php*Renee Garcia-Prajer, R.D.H., M.S. - University of New Haven*None
+https://www.newhaven.edu/families/*Parents and Families - University of New Haven*None
+https://www.newhaven.edu/give/priorities/engineering-priorities.php*Giving Priorities: Engineering - University of New Haven*None
+https://www.newhaven.edu/health-sciences/*School of Health Sciences - University of New Haven*None
+https://www.newhaven.edu/health-sciences/accreditation.php*Accreditation and Awards School of Health Sciences - University of New Haven*None
+https://www.newhaven.edu/health-sciences/graduate-programs/certificates/*School of Health Sciences Graduate Certificates - University of New Haven*None
+https://www.newhaven.edu/health-sciences/graduate-programs/certificates/index.php*School of Health Sciences Graduate Certificates - University of New Haven*None
+https://www.newhaven.edu/health-sciences/graduate-programs/dietetic-internship-program/program-overview.php*Program Overview - University of New Haven*None
+https://www.newhaven.edu/health-sciences/graduate-programs/doctorate-occupational-therapy/*Occupational Therapy (OTD) - University of New Haven*None
+https://www.newhaven.edu/health-sciences/graduate-programs/healthcare-administration/cohort-programs.php*Cohort Programs for Master of Healthcare Administration - University of New Haven*None
+https://www.newhaven.edu/health-sciences/graduate-programs/healthcare-administration/index.php*Healthcare Administration, M.H.A. - University of New Haven*None
+https://www.newhaven.edu/health-sciences/index.php*School of Health Sciences - University of New Haven*None
+https://www.newhaven.edu/health-sciences/undergraduate-programs/*Undergraduate Programs - University of New Haven*None
+https://www.newhaven.edu/health-sciences/undergraduate-programs/health-sciences/*Health Sciences, B.S. - University of New Haven*None
+https://www.newhaven.edu/health-sciences/undergraduate-programs/medical-laboratory-science/index.php*Medical Laboratory Science, B.S. - University of New Haven*None
+https://www.newhaven.edu/health-sciences/undergraduate-programs/nutrition-dietetics/*Nutrition & Dietetics, B.S. - University of New Haven*None
+https://www.newhaven.edu/health-sciences/undergraduate-programs/nutrition-sciences/index.php*Nutrition Sciences, Accelerated B.S. + M.S. - University of New Haven*None
+https://www.newhaven.edu/health-sciences/undergraduate-programs/paramedicine/*Paramedicine, B.S. - University of New Haven*None
+https://www.newhaven.edu/health-sciences/undergraduate-programs/paramedicine/index.php*Paramedicine, B.S. - University of New Haven*None
+https://www.newhaven.edu/health-sciences/undergraduate-programs/paramedicine/licensure-information.php*Paramedicine, B.S. - Connecticut Licensure Information - University of New Haven*None
+https://www.newhaven.edu/lee-college/criminal-justice-phd/index.php*Criminal Justice, Ph.D. - University of New Haven*None
+https://www.newhaven.edu/lee-college/criminal-justice-phd/mission.php*Vision, Mission and Values - University of New Haven*None
+https://www.newhaven.edu/lee-college/criminal-justice-phd/student-facts.php*Student Research and Scholarship - University of New Haven*None
+https://www.newhaven.edu/lee-college/graduate-programs/criminal-justice/index.php*Criminal Justice, M.S. - University of New Haven*None
+https://www.newhaven.edu/lee-college/graduate-programs/emergency-management/*Emergency Management, M.S. - University of New Haven*None
+https://www.newhaven.edu/lee-college/graduate-programs/emergency-management/index.php*Emergency Management, M.S. - University of New Haven*None
+https://www.newhaven.edu/lee-college/graduate-programs/fire-science/index.php*Fire and Explosion Investigation, M.S. - University of New Haven*None
+https://www.newhaven.edu/lee-college/graduate-programs/forensic-science/*Forensic Science, M.S. - University of New Haven*None
+https://www.newhaven.edu/lee-college/graduate-programs/forensic-science/index.php*Forensic Science, M.S. - University of New Haven*None
+https://www.newhaven.edu/lee-college/graduate-programs/forensic-technology/*Forensic Technology, M.S. - University of New Haven*None
+https://www.newhaven.edu/lee-college/graduate-programs/forensic-technology/index.php*Forensic Technology, M.S. - University of New Haven*None
+https://www.newhaven.edu/lee-college/graduate-programs/national-security/*National Security, M.S. - University of New Haven*None
+https://www.newhaven.edu/lee-college/undergraduate-programs/certificates/index.php*Henry C. Lee College Undergraduate Certificates - University of New Haven*None
+https://www.newhaven.edu/lee-college/undergraduate-programs/criminal-justice/*Criminal Justice, B.S. - University of New Haven*None
+https://www.newhaven.edu/lee-college/undergraduate-programs/fire-protection-engineering/*Fire Protection Engineering, B.S. - University of New Haven*None
+https://www.newhaven.edu/lee-college/undergraduate-programs/fire-science-as/*Fire Science, A.S. - University of New Haven*None
+https://www.newhaven.edu/lee-college/undergraduate-programs/fire-science/*Fire Science, B.S. - University of New Haven*None
+https://www.newhaven.edu/lee-college/undergraduate-programs/fire-science/index.php*Fire Science, B.S. - University of New Haven*None
+https://www.newhaven.edu/lee-college/undergraduate-programs/forensic-science/*Forensic Science, B.S. - University of New Haven*None
+https://www.newhaven.edu/lee-college/undergraduate-programs/forensic-science/index.php*Forensic Science, B.S. - University of New Haven*None
+https://www.newhaven.edu/lee-college/undergraduate-programs/forensic-science/student-success.php*Forensic Science Student Success and Outcomes - University of New Haven*None
+https://www.newhaven.edu/lee-college/undergraduate-programs/homeland-security-emergency-management/*Homeland Security & Emergency Management, B.S. - University of New Haven*None
+https://www.newhaven.edu/lee-college/undergraduate-programs/index.php*Undergraduate Programs - University of New Haven*None
+https://www.newhaven.edu/lee-college/undergraduate-programs/international-affairs/faculty.php*International Affairs Faculty & Staff - University of New Haven*None
+https://www.newhaven.edu/lee-college/undergraduate-programs/international-affairs/index.php*International Affairs, B.A. - University of New Haven*None
+https://www.newhaven.edu/lee-college/undergraduate-programs/national-security/index.php*National Security, B.S. - University of New Haven*None
+https://www.newhaven.edu/news/blog/2019/adam-hansen-mpa.php*MPA Student Proposes Legislation to Protect Firefighters - University of New Haven*None
+https://www.newhaven.edu/news/blog/2019/black-history-month.php*University of New Haven Senior Reflects on the Significance of Black History Month - University of New Haven*None
+https://www.newhaven.edu/news/blog/2019/emmy-awards.php*Students, Recent Alum Win Emmy Awards - University of New Haven*None
+https://www.newhaven.edu/news/blog/2019/veteran-podcast.php*WNHU Podcast Created for Veterans by Veterans   - University of New Haven*None
+https://www.newhaven.edu/news/blog/2020/eva-sapi-research.php*University of New Haven Professor Makes Great Strides in Lyme Disease, Cancer Research - University of New Haven*None
+https://www.newhaven.edu/news/blog/2020/natas-awards.php*University of New Haven Students and Alumni Recognized by National Academy of Television Arts and Sciences - University of New Haven*None
+https://www.newhaven.edu/news/blog/2020/pompea-virtual-celebration.php*University of New Haven Celebrates Official Dedication of the Pompea College of Business - University of New Haven*None
+https://www.newhaven.edu/news/blog/2020/principles-of-epidemiology.php*Health Sciences Major: ‘There Couldn’t Have Been a Better Time to Take an Epidemiology Course’ - University of New Haven*None
+https://www.newhaven.edu/news/blog/2021/bergami-center-gold.php*Cutting-Edge Bergami Center is Certified ‘Good As Gold’ - University of New Haven*None
+https://www.newhaven.edu/news/blog/2021/bhm-event-hannah-providence.php*‘Our Faculty Inspire Me to Help Foster Diversity, Equity, and Inclusion on Campus’ - University of New Haven*None
+https://www.newhaven.edu/news/blog/2021/charge-into-ct-black-history.php*Hospitality Students’ Unique Capstone Highlights How Tourism Industry Can Raise Awareness to State’s Black History - University of New Haven*None
+https://www.newhaven.edu/news/blog/2021/eric-anderson.php*Former Chargers Basketball Standout Takes Talents Around the World - University of New Haven*None
+https://www.newhaven.edu/news/blog/2021/esports-david-pendelton.php*‘I Am Thrilled with Everything About the University’ - University of New Haven*None
+https://www.newhaven.edu/news/blog/2021/g20.php*Students Reflect on 'Incredibly Rewarding' Model G20 Experience - University of New Haven*None
+https://www.newhaven.edu/news/blog/2021/index.php*The Charger Blog 2021 - University of New Haven*None
+https://www.newhaven.edu/news/blog/2021/jamaal-bowman.php*Alumnus Encourages Students, ‘Continue to Push Hard for Transformative Change’ - University of New Haven*None
+https://www.newhaven.edu/news/blog/2021/near-peer-mentorship-program.php*Innovative Mentorship Program Enables Business Students to Learn from Each Other - University of New Haven*None
+https://www.newhaven.edu/news/blog/your-charger-connection.php*Your Charger Connection Blog - University of New Haven*None
+https://www.newhaven.edu/news/index.php*News - University of New Haven*None
+https://www.newhaven.edu/news/releases/2017/first-college-in-country-to-introduce-interactive-employment-software.php*First College in Country To Introduce Interactive Employment Software That Matches Employers and Students Instantly - University of New Haven*None
+https://www.newhaven.edu/news/releases/2017/fox61-university-of-new-haven-announce-partnership.php*University of New Haven, FOX61 Announce Partnership - University of New Haven*None
+https://www.newhaven.edu/news/releases/2017/stadium-named-for-soccer-pioneer-kathy-zolad.php*Stadium Named for Soccer Pioneer Kathy Zolad - University of New Haven*None
+https://www.newhaven.edu/news/releases/2018/*University News 2018 - University of New Haven*None
+https://www.newhaven.edu/news/releases/2019/*University News 2019 - University of New Haven*None
+https://www.newhaven.edu/news/releases/2019/commencement-morning-recap.php*New Haven Mayor Toni Harp Tells Class of 2019: ‘Stay Current, Stay Involved’ - University of New Haven*None
+https://www.newhaven.edu/news/releases/2019/nyc-road-show.php*University Brings Centennial Celebration to New York City - University of New Haven*None
+https://www.newhaven.edu/news/releases/2020/alvine-pitch-competition.php*Business Management Majors Win Virtual Alvine Pitch Competition with Drone Company Idea - University of New Haven*None
+https://www.newhaven.edu/news/releases/2020/artist-fellowship-program.php*Faculty Members Honored by Connecticut Artist Fellowship Program - University of New Haven*None
+https://www.newhaven.edu/news/releases/2020/college-of-business-accreditation.php*University of New Haven Earns Extension of its Prestigious College of Business Accreditation - University of New Haven*None
+https://www.newhaven.edu/news/releases/2020/dental-hygiene-rankings.php*University’s Dental Hygiene Program Ranked Among Best in the Country - University of New Haven*None
+https://www.newhaven.edu/news/releases/2020/index.php*University News 2020 - University of New Haven*None
+https://www.newhaven.edu/news/releases/2020/renee-garcia-prajer-certification.php*School of Health Sciences Associate Dean Recognized for Commitment to Person-Centered Care - University of New Haven*None
+https://www.newhaven.edu/news/releases/2020/unh-ynhhs-partnership.php*University of New Haven and Yale New Haven Health announce a student healthcare partnership - University of New Haven*None
+https://www.newhaven.edu/news/releases/2020/womens-soccer-award.php*Women’s Soccer Team Recognized for Ethics and Sportsmanship - University of New Haven*None
+https://www.newhaven.edu/news/releases/2021/a-commitment-to-do-more.php*A Commitment to Do More - University of New Haven*None
+https://www.newhaven.edu/news/releases/2021/grant-to-support-education-for-incarcerated-students.php*University Receives $1.5 Million Grant to Support Education for Incarcerated Students - University of New Haven*None
+https://www.newhaven.edu/news/releases/2021/index.php*University News 2021 - University of New Haven*None
+https://www.newhaven.edu/reopening/visitor-policy.php*Visitors Policy & Access to Campus Guidelines - University of New Haven*None
+https://www.newhaven.edu/research/faculty-research/*Faculty Research - University of New Haven*None
+https://www.newhaven.edu/research/faculty-research/engineering/*Research in Engineering, Computer Science, and Chemistry - University of New Haven*None
+https://www.newhaven.edu/research/faculty-research/engineering/chemical/1-aza-bicyclic.php*Synthesis of 1-AZA-Bicyclic Compounds - University of New Haven*None
+https://www.newhaven.edu/research/faculty-research/engineering/mcesi/phase-change-materials.php*Phase Change Materials (PCMs) for Thermal Energy Storage - University of New Haven*None
+https://www.newhaven.edu/research/faculty-research/engineering/mcesi/tri-sol-solar-energy.php*Tri-Sol Solar Energy - University of New Haven*None
+https://www.newhaven.edu/research/faculty-research/engineering/wireless-communication/*Wireless Communications Research - University of New Haven*None
+https://www.newhaven.edu/research/faculty-research/technology-transfer/index.php*Technology Transfer and Intellectual Property - University of New Haven*None
+https://www.newhaven.edu/research/faculty-research/technology-transfer/information-industry.php*Information for Industry - University of New Haven*None
+https://www.newhaven.edu/research/grants/*Grants & Sponsored Contracts - University of New Haven*None
+https://www.newhaven.edu/spotlights/*Spotlights - University of New Haven - University of New Haven*None
+https://www.newhaven.edu/student-life/career-development-center/alumni/*Career Development for Alumni - University of New Haven*None
+https://www.newhaven.edu/student-life/career-development-center/employers/*Info for Employers Recruiting Our Students - University of New Haven*None
+https://www.newhaven.edu/student-life/career-development-center/employment-outcomes/index.php*Employment Outcomes - University of New Haven*None
+https://www.newhaven.edu/student-life/commuter-resources/*Commuter Resources - University of New Haven*None
+https://www.newhaven.edu/student-life/dining-options/*Dining Options - University of New Haven*None
+https://www.newhaven.edu/student-life/diversity-inclusion/*Diversity and Inclusion - University of New Haven*None
+https://www.newhaven.edu/student-life/diversity-inclusion/accessibility-resources-center/parents-families/parent-letter.php*Parent Letter - University of New Haven*None
+https://www.newhaven.edu/student-life/diversity-inclusion/international-services/*International Services Office - University of New Haven*None
+https://www.newhaven.edu/student-life/diversity-inclusion/myatt-center.php*Myatt Center for Diversity and Inclusion - University of New Haven*None
+https://www.newhaven.edu/student-life/get-involved/*Get Involved - University of New Haven*None
+https://www.newhaven.edu/student-life/get-involved/cle.php*Competency Learning Experience - University of New Haven*None
+https://www.newhaven.edu/student-life/get-involved/marching-band/*Chargers Marching Band - University of New Haven*None
+https://www.newhaven.edu/student-life/get-involved/marching-band/prospective-members.php*Prospective Members - University of New Haven*None
+https://www.newhaven.edu/student-life/get-involved/student-activities/greek/index.php*Greek Life - University of New Haven*None
+https://www.newhaven.edu/student-life/get-involved/student-activities/organizations/*Recognized Student Organizations - University of New Haven*None
+https://www.newhaven.edu/student-life/graduate-student-services/index.php*Graduate Student Services - University of New Haven*None
+https://www.newhaven.edu/student-life/health-wellness/*Health and Wellness - University of New Haven*None
+https://www.newhaven.edu/student-life/health-wellness/chargerrec/*ChargerREC - University of New Haven*None
+https://www.newhaven.edu/student-life/health-wellness/health-services/*Health Services - University of New Haven*None
+https://www.newhaven.edu/student-life/living-on-campus/*Living on Campus - University of New Haven*None
+https://www.newhaven.edu/student-life/living-on-campus/graduate-housing.php*Graduate Student Housing - University of New Haven*None
+https://www.newhaven.edu/student-life/living-on-campus/halls/park-view.php*Park View - University of New Haven*None
+https://www.newhaven.edu/student-life/orientation/first-year/*Virtual New Student and Transfer Orientation (VSOAR) - University of New Haven*None
+https://www.newhaven.edu/student-life/orientation/graduate/index.php#ol-breakouts*Graduate Student Orientation - University of New Haven*None
+https://www.newhaven.edu/student-life/orientation/graduate/index.php*Graduate Student Orientation - University of New Haven*None
+https://www.newhaven.edu/student-life/orientation/staff.php*Orientation Staff - University of New Haven*None
+https://www.newhaven.edu/student-life/public-safety/*Public Safety - University of New Haven*None
+https://www.newhaven.edu/student-life/public-safety/fire-safety.php*Fire Safety - University of New Haven - University of New Haven*None
+https://www.newhaven.edu/student-life/public-safety/police/bulletins.php*Security Bulletins and Safety & Crime Prevention Tips - University of New Haven*None
+https://www.newhaven.edu/student-life/public-safety/police/emergency-procedures.php*Emergency Procedures and Notifications - University of New Haven*None
+https://www.newhaven.edu/student-life/public-safety/report-it/behavior.php*Types of Concerning Behavior - University of New Haven*None
+https://www.newhaven.edu/student-life/public-safety/report-it/index.php*Report It! Don't Ignore It! - Reporting Options - University of New Haven*None
+https://www.newhaven.edu/student-life/public-safety/satelite-campus.php*Satellite Campus Public Safety - University of New Haven*None
+https://www.newhaven.edu/submit-feedback.php*Submit Feedback - University of New Haven*None
+https://www.newhaven.edu/veterans/*Military & Veteran Services - University of New Haven*None
+https://www.newhaven.edu/veterans/index.php*Military & Veteran Services - University of New Haven*None
+https://www.newhaven.edu/veterans/request-info.php*Request Information for Veteran Students - University of New Haven*None
+https://www.newhaven.edu/veterans/staff.php*Meet the Military & Veteran Services Team - University of New Haven*None
